@@ -1,0 +1,12 @@
+Filename: mp-7895.cif  Rb2O2  appeared: 2 times
+Space Group: Immm no. 71
+Orientation Matrix:
+3.82	0.00	1.72
+1.59	4.57	1.57
+0.00	0.00	5.08
+Atoms Locations:
+Rb	[0.74373607 0.25626393 0.25626393]
+Rb	[0.25626393 0.74373607 0.74373607]
+O	[0.         0.62688266 0.37311734]
+O	[0.         0.37311734 0.62688266]
+
