@@ -1,9 +1,9 @@
-Filename: mp-29559.cif  La3Si3Cl2  appeared: 3 times
-Space Group: C2/m no. 12
+Filename: mp-672231.cif  La3Si3Cl2  appeared: 3 times
+Space Group: P-1 no. 2
 Orientation Matrix:
-4.26	0.00	0.00
--2.13	8.99	-1.26
-0.00	0.00	10.65
+4.35	0.00	0.00
+-2.18	9.29	-1.32
+0.00	0.00	10.93
 Atoms Locations:
 La	[0.31987572 0.63975144 0.85132477]
 La	[0.68012428 0.36024856 0.14867523]

@@ -1,9 +1,9 @@
-Filename: mp-1197804.cif  CuP4S3Br  appeared: 2 times
+Filename: mp-554724.cif  CuP4S3Br  appeared: 2 times
 Space Group: Cmce no. 64
 Orientation Matrix:
-11.77	0.00	0.00
--9.25	7.28	0.00
-0.00	0.00	10.35
+11.79	0.00	0.00
+-8.96	7.67	0.00
+0.00	0.00	10.91
 Atoms Locations:
 Cu	[0.80425309 0.80425309 0.5       ]
 Cu	[0.30425309 0.30425309 0.        ]

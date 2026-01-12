@@ -1,17 +1,17 @@
-Filename: mp-23102.cif  Ca2Cu(BrO)2  appeared: 6 times
+Filename: mp-549487.cif  Ca2Cu(BrO)2  appeared: 6 times
 Space Group: I4/mmm no. 139
 Orientation Matrix:
-3.88	0.00	-7.58
--0.23	3.87	-7.58
-0.00	0.00	8.51
+3.99	0.00	-0.77
+-0.15	3.98	-0.77
+0.00	0.00	10.73
 Atoms Locations:
-Sr	[0.606459 0.606459 0.      ]
-Sr	[0.393541 0.393541 0.      ]
+Ca	[0.411123 0.411123 0.822246]
+Ca	[0.588877 0.588877 0.177754]
 Cu	[0. 0. 0.]
-Cl	[0.182409 0.182409 0.      ]
-Cl	[0.817591 0.817591 0.      ]
-O	[0.  0.5 0.5]
-O	[0.5 0.  0.5]
+Br	[0.829664 0.829664 0.659328]
+Br	[0.170336 0.170336 0.340672]
+O	[0.5 0.  0. ]
+O	[0.  0.5 0. ]
 
 Filename: mp-1077904.cif  CdPb2(ClO)2  appeared: 2 times
 Space Group: C2/m no. 12

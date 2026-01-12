@@ -1,9 +1,9 @@
-Filename: mp-30278.cif  Ce3Ga4Cl  appeared: 2 times
+Filename: mp-631194.cif  Ce3Ga4Cl  appeared: 2 times
 Space Group: I4/mcm no. 140
 Orientation Matrix:
-6.97	0.00	-3.94
--2.37	6.55	-3.94
-0.00	0.00	8.00
+7.08	0.00	-4.00
+-4.67	6.65	-0.12
+0.00	0.00	8.13
 Atoms Locations:
 Ce	[0.8386362 0.6613638 0.5      ]
 Ce	[0.6614221  0.1614221  0.82284119]

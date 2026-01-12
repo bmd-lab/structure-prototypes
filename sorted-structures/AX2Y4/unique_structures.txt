@@ -1,9 +1,9 @@
-Filename: mp-1193652.cif  Re(TeCl2)2  appeared: 2 times
+Filename: mp-662556.cif  Re(TeCl2)2  appeared: 2 times
 Space Group: I-4 no. 82
 Orientation Matrix:
-9.53	0.00	-4.79
--3.63	8.82	-4.79
-0.00	0.00	10.67
+9.80	0.00	-4.77
+-3.83	9.02	-4.77
+0.00	0.00	10.90
 Atoms Locations:
 Re	[0.690546 0.529146 0.074856]
 Re	[0.45429  0.61569  0.925144]

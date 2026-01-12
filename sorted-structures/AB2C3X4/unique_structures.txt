@@ -1,9 +1,9 @@
-Filename: mp-17375.cif  K2Na3TlO4  appeared: 8 times
+Filename: mp-504851.cif  K2Na3TlO4  appeared: 8 times
 Space Group: Pnnm no. 58
 Orientation Matrix:
-7.67	0.00	0.00
--0.00	9.22	0.00
-0.00	0.00	9.53
+7.56	0.00	0.00
+-0.00	9.78	0.00
+0.00	0.00	9.91
 Atoms Locations:
 K	[0.2464352 0.5       0.       ]
 K	[0.2535648 0.        0.5      ]
@@ -46,12 +46,12 @@ O	[0.         0.06037592 0.72388016]
 O	[0.5        0.56037592 0.77611984]
 O	[0.         0.93962408 0.27611984]
 
-Filename: mp-16955.cif  K2Li3FeO4  appeared: 4 times
+Filename: mp-562541.cif  K2Li3FeO4  appeared: 4 times
 Space Group: P2_1/c no. 14
 Orientation Matrix:
-8.90	0.00	0.00
--0.00	5.27	2.02
-0.00	0.00	11.15
+10.34	0.00	0.00
+-0.00	6.09	2.30
+0.00	0.00	12.80
 Atoms Locations:
 K	[0.993119 0.293548 0.861563]
 K	[0.493119 0.706452 0.638437]

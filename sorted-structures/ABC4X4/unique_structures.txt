@@ -1,9 +1,9 @@
-Filename: mp-1205067.cif  KNa4FeO4  appeared: 4 times
+Filename: mp-562074.cif  KNa4FeO4  appeared: 4 times
 Space Group: Pbca no. 61
 Orientation Matrix:
-5.95	0.00	0.00
--0.00	10.44	0.00
-0.00	0.00	18.68
+6.84	0.00	0.00
+-0.00	11.99	0.00
+0.00	0.00	21.45
 Atoms Locations:
 K	[0.9097995  0.15542801 0.4960891 ]
 K	[0.5902005  0.65542801 0.5039109 ]

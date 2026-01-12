@@ -1,9 +1,9 @@
-Filename: mp-29994.cif  La3C2Br3  appeared: 2 times
+Filename: mp-569686.cif  La3C2Br3  appeared: 2 times
 Space Group: C222_1 no. 20
 Orientation Matrix:
-10.45	0.00	0.00
--3.93	9.69	0.00
-0.00	0.00	17.31
+10.80	0.00	0.00
+-3.98	10.04	0.00
+0.00	0.00	17.87
 Atoms Locations:
 La	[0.165146 0.834854 0.25    ]
 La	[0.834854 0.165146 0.75    ]

@@ -1,9 +1,9 @@
-Filename: mp-28845.cif  OsO3F2  appeared: 2 times
+Filename: mp-556419.cif  OsO3F2  appeared: 2 times
 Space Group: P2_1/c no. 14
 Orientation Matrix:
-4.95	0.00	0.00
--0.00	5.36	0.86
-0.00	0.00	12.11
+4.89	0.00	0.00
+-0.00	5.39	0.85
+0.00	0.00	12.56
 Atoms Locations:
 Os	[0.21469086 0.19684583 0.63489664]
 Os	[0.71469086 0.80315417 0.86510336]
@@ -30,12 +30,12 @@ F	[0.60576251 0.12846327 0.88659286]
 F	[0.39423749 0.87153673 0.11340714]
 F	[0.53293087 0.95534771 0.70957167]
 
-Filename: mp-567823.cif  KC2N3  appeared: 2 times
+Filename: mp-683918.cif  KC2N3  appeared: 2 times
 Space Group: P2_1/c no. 14
 Orientation Matrix:
-11.91	0.00	0.00
--0.00	3.71	0.31
-0.00	0.00	24.55
+12.31	0.00	0.00
+-0.00	3.83	0.63
+0.00	0.00	25.58
 Atoms Locations:
 K	[0.65006262 0.57595841 0.4854483 ]
 K	[0.99553529 0.89362308 0.75543605]

@@ -1,9 +1,9 @@
-Filename: mp-559309.cif  K3ZnNCl4O3  appeared: 2 times
+Filename: mp-562140.cif  K3ZnNCl4O3  appeared: 2 times
 Space Group: Pnma no. 62
 Orientation Matrix:
-9.23	0.00	0.00
--0.00	9.66	0.00
-0.00	0.00	11.98
+9.62	0.00	0.00
+-0.00	10.28	0.00
+0.00	0.00	12.80
 Atoms Locations:
 K	[0.87484026 0.9938092  0.68238335]
 K	[0.87484026 0.5061908  0.68238335]

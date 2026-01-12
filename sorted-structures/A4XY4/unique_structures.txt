@@ -1,9 +1,9 @@
-Filename: mp-5251.cif  Ca4CN4  appeared: 2 times
+Filename: mp-567601.cif  Ca4CN4  appeared: 2 times
 Space Group: Pnma no. 62
 Orientation Matrix:
-3.56	0.00	0.00
--0.00	11.42	0.00
-0.00	0.00	13.92
+3.82	0.00	0.00
+-0.00	12.30	0.00
+0.00	0.00	14.42
 Atoms Locations:
 Ca	[0.25       0.63857799 0.26045131]
 Ca	[0.75       0.36142201 0.73954869]
