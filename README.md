@@ -10,7 +10,9 @@ By analyzing **23,160** experimentally observed thermodynamic ground state inorg
 
 ## 📊 Data Availability
 
-The full lists of prototypes is freely available on GitHub. Each prototype is shown with the following information: 
+Each Directory inculde all the cif files for the certain stoichiometry group
+
+The full lists of prototypes is available at the ```unique_structures.txt``` file. Each prototype is shown with the following information: 
 * **Filename** (as obtained from the Materials Project)
 * **Chemical formula**
 * **Match count** (how many materials matched this prototype)
@@ -20,12 +22,12 @@ The full lists of prototypes is freely available on GitHub. Each prototype is sh
 
 ### Example Entry
 ```text
-Filename: mp-2605.cif CaO appeared: 122 times
+Filename: mp-614603.cif  CaO  appeared: 122 times
 Space Group: Fm-3m no. 225
 Orientation Matrix:
-2.94 0.00 1.70
-0.98 2.78 1.70
-0.00 0.00 3.40
+4.78	0.00	2.76
+1.59	4.51	2.76
+0.00	0.00	5.52
 Atoms Locations:
-Ca [0. 0. 0.]
-O [0.5 0.5 0.5]
+Ca	[0. 0. 0.]
+O	[0.5 0.5 0.5]
