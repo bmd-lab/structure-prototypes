@@ -10,7 +10,7 @@ By analyzing **23,160** experimentally observed thermodynamic ground state inorg
 
 ## 📊 Data Availability
 
-Each Directory inculde all the cif files for the certain stoichiometry group
+Each Directory inculde all the cif files for the certain stoichiometry group.
 
 The full lists of prototypes is available at the ```unique_structures.txt``` file. Each prototype is shown with the following information: 
 * **Filename** (as obtained from the Materials Project)
